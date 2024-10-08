@@ -1,6 +1,6 @@
 👋 Hi, I’m Shubham Sharma.
 
-👀 I’m interested in coding, AI, and online shopping for those killer vintage pieces!
+👀 I’m interested in coding, AI, food, gaming, shopping and adventure activities! These things make me feel alive.
 
 🌱 I’m currently learning Next.js
 
