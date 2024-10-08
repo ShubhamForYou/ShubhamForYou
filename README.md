@@ -1,4 +1,4 @@
-👋 Hi, I’m Shubham
+👋 Hi, I’m Shubham Sharma.
 
 👀 I’m interested in coding, AI, and online shopping for those killer vintage pieces!
 
@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Did you know I once debugged a code at 2 AM and solved it with a cup of coffee?
+⚡ Fun fact: I have a knack for convincing people and winning them over!
 
 <!---
 ShubhamForYou/ShubhamForYou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
