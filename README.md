@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: I have a knack for convincing people and winning them over!
 
+🚀 Life is an adventure, and I am adventurous too. 
+
 <!---
 ShubhamForYou/ShubhamForYou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 📫 How to reach me: [Your pre]
